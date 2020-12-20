@@ -49,7 +49,7 @@
     "query-string": "^6.11.1",
     "web3": "0.20.6",
     "webpack": "^3.10.0",
-    "wyvern-js": "git+https://github.com/etouyang/wyvern-js#master",
+    "wyvern-js": "git+https://github.com/etouyang/wyvern-js#5273ecd132f35ac477293ab28ca4cc9f0efb4cc5",
     "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#v0.11.1"
   },
   "husky": {
